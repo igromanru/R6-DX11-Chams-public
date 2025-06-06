@@ -1,5 +1,9 @@
 # R6 Chams - Public source by Igromanru
 
+# Outdated
+In 2025 Rainbow Six Siege removed DirectX 11 support, making this project obsolete.  
+However, the method to make chams remains the same for games that still support/use DirectX 11.  
+
 ## How to use without BattlEye 
 1. Use latest Visual Studio to compile the source code into a DLL
 2. Open Ubisoft Connect->Library->"..."->Properties
