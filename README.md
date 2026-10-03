@@ -1,4 +1,4 @@
-# R6 Chams - Public source by Igromanru
+# R6 DirectX 11 Chams - Public source by Igromanru
 
 # Outdated
 In 2025 Rainbow Six Siege removed DirectX 11 support, making this project obsolete.  
